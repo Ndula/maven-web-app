@@ -12,7 +12,7 @@
 <h1 align="center">Landmark Technology  --> A Metropolitan University Company</h1>
 <h2 align="center"> Welcome to Landmark Technology. 
 	Landmark Technology is a an ideal online training  platform for DevOps and Cloud Engineers. 
-	We offer interview preparations and job assitance.
+	We have a demo on DevOps E degree on saturday March 27, 2021. We offer interview preparations and job assitance.
 	The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
