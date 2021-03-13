@@ -1,4 +1,4 @@
-# # From & COPY are key words in a Dockerfile
+# From & COPY are key words in a Dockerfile
 
 FROM tomcat:9.0.20-jdk8
 
